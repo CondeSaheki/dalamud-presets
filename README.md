@@ -1,7 +1,11 @@
 # dalamud-presets
-Cli tool for enabling/disabling mods
+Cli tool for enabling/disabling mods.
 
 DO NOT USE THIS WHILE DALAMUD IS RUNNING!
+
+Q: What it do?
+A: It basicaliy changes mutiple mods config file at once to enable or disable the mod.
+
 
 # Usage
 like any cli app
@@ -18,3 +22,5 @@ response:
 -p:apply                      WIP     
 -p:edit                       WIP     
 ```
+
+I am doing this for my personal usage feel free to do watever you like with this.
